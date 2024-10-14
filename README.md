@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lewwandi
-- 👀 I’m interested in Machine Learning and AI
+- 👀 I’m interested in AI/ML
 - 🌱 I’m currently learning..an undergraduate of Electronics & Telecommunication Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...leww8911@gmail.com
