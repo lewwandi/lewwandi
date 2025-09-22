@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lewwandi
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning..an undergraduate of Electronics & Telecommunication Engineering
-- 📫 How to reach me ...leww8911@gmail.com
+- 🌱 I’m currently a 4th year undergraduate of Electronics & Telecommunication Engineering
+- 📫 Reach me through leww8911@gmail.com
 
 
 <!---
